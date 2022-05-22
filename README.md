@@ -4,14 +4,7 @@ Repozytorium publiczne, w którym pokazuję swoje umiejętności testerskie i in
 
 
 # O mnie
-Certyfikowany Tester Oprogramowania po kursie SDA.
-Jestem człowiekiem pracowitym i wytrwałym w dążeniu do celu. Zwracam uwagę na szczegóły i zawsze stawiam na dokładność. Zachowuję spokój w sytuacjach stresowych i dobrze współpracuję w zespole, jak i samodzielnie. Przy tym również stawiam na efektywność mojej pracy. 
-Intensywnie poszerzam wiedzę z zakresu testowania, próbuję swoich sił na platformie uTest, 
-lecz nie ograniczam się tylko do tego. W przeszłości pracowałem jako osoba odpowiedzialna za weryfikację jakości produktów w branży motoryzacyjnej.
-Posiadam wiedzę z zakresu architektury komputerów i systemów operacyjnych, 
-którą poszerzam wraz z nauką na dwuletnim kursie. 
-Prywatnie jestem osobą koleżeńską, posiadającą poczucie humoru oraz lubiącą aktywnie spędzać czas.
-Wierzę, że mój zapał i motywacja wniosą dużo pozytywnej energii do nowego zespołu.
+Certyfikowany Tester Oprogramowania po kursie SDA. Jestem człowiekiem pracowitym i wytrwałym w dążeniu do celu. Zwracam uwagę na szczegóły i zawsze stawiam na dokładność. Zachowuję spokój w sytuacjach stresowych i dobrze organizuję swoje zadania pod presją czasu. Lubię działać w zespole jak i samodzielnie. Przy tym jednocześnie dbam o efektywność mojej pracy. Intensywnie poszerzam wiedzę z zakresu testowania oraz próbuję swoich sił na platformie uTest. Jednak nie ograniczam się tylko do tego. W przeszłości pracowałem jako osoba odpowiedzialna za weryfikację jakości produktów w branży motoryzacyjnej. Posiadam wiedzę z zakresu architektury komputerów i systemów operacyjnych, którą poszerzam wraz z nauką na dwuletnim kursie. Prywatnie jestem osobą otwartą i koleżeńską, empatyczną lecz asertywną, lubiącą aktywnie spędzać czas.
 
 # Kursy
 1. Software Development Academy (Software Tester)
@@ -32,15 +25,19 @@ Kwalifikacyjny Kurs Zawodowy - Technik Informatyk z certyfikatem grafiki kompute
 
 1. Testowanie oprogramowania
 2. Instalowanie oprogramowania
-3. Instalacja i obsługa sprzętu IT
-4. JIRA
-5. TestRail
-6. TestLink
-7. Trello
-8. Postman
-9. ShareX
-10. Microsoft Office
-11. Slack
+3. Tworzenie przypadków testowych
+4. Raportowanie błędów
+5. Znajomość technik testowania
+6. Instalacja i obsługa sprzętu IT
+7. JIRA
+8. TestRail
+9. TestLink
+10. Trello
+11. Postman
+12. ShareX
+13. Microsoft Office
+14. Slack
+15. PicPick
 
 
 # Książki
@@ -82,6 +79,7 @@ Kwalifikacyjny Kurs Zawodowy - Technik Informatyk z certyfikatem grafiki kompute
 6. Pasja Informatyki - kanał Youtube
 7. blackwhite TV - kanał Youtube
 8. miroslawzelent.pl
+9. testerzy.pl
 
 
 # Przypadki testowe
